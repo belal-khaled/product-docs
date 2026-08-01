@@ -20,6 +20,8 @@ To manage your account (email, password, connected sign-in methods, billing), na
 
 ## Pages
 
+![Pages — AI-generated health documents](img/pages.png)
+
 **Pages** (`/dashboard/pages`) are AI-generated health documents — for example, a plain-English interpretation of a lab report, or a personalized nutrition blueprint. They are created by Luna when you ask for a report summary.
 
 Each page has a visibility setting:

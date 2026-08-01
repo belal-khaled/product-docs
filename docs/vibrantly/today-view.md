@@ -2,6 +2,8 @@
 
 The **Today** dashboard is the first thing you see when you open Vibrantly. It brings together your daily meal activity, AI-generated insights, and a summary of your recent body signals.
 
+![Today dashboard](img/today.png)
+
 ## Daily Greeting and Insight
 
 At the top of the page, Luna greets you by name and surfaces the most relevant health insight for the day — based on your lab results, recent meals, and your stated goals.
@@ -28,6 +30,8 @@ Below the meal input, Luna shows a **Today's Insight** card — a concise observ
 - A forming pattern worth watching.
 
 ## Meals Summary
+
+![Meals history](img/meals.png)
 
 The **From Your Meals** section shows your most recent logged meals with:
 

@@ -2,6 +2,8 @@
 
 Vibrantly is your personal health intelligence platform. It connects your lab results, meals, and daily signals to give you a clear, plain-English picture of your health — powered by Luna, your AI health companion.
 
+![Vibrantly welcome screen](img/welcome.png)
+
 ## Creating Your Account
 
 1. Open the Vibrantly app or visit [staging.vibrantly.com](https://staging.vibrantly.com).

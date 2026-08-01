@@ -2,6 +2,8 @@
 
 Vibrantly tracks your biomarkers from lab reports and surfaces the ones that matter most — explained in plain language, not medical jargon.
 
+![Lab Reports — upload and manage your health files](img/lab-reports.png)
+
 ## Uploading a Lab Report
 
 Go to **Lab Reports** and either drag-and-drop your file or click **Upload**. Supported formats:
@@ -16,6 +18,8 @@ Your reports are encrypted at rest. Before any AI analysis runs, personal identi
 After upload, Vibrantly reads the report, extracts biomarker values, and maps them to known reference ranges. This may take a few seconds.
 
 ## Understanding Your Biomarkers (Body View)
+
+![Body view — biomarkers explained in plain language](img/body.png)
 
 Go to **Body** to see your complete biomarker picture — categorized, annotated, and prioritized by Luna.
 
