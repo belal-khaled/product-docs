@@ -1,0 +1,3 @@
+# Goals Companion
+
+> This page will be populated by the documentation agent exploring the live Vibrantly interface.
