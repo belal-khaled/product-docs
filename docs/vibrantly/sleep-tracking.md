@@ -54,6 +54,21 @@ Use the filter buttons (**All / Excellent / Borderline / Needs attention / Missi
 
 Based on your latest panel, Vibrantly estimates a **biological age** — a composite signal of how your body is performing relative to your chronological age. The number updates each time you upload a new report.
 
+## Viewing a Full Lab Report
+
+![Lab report results — Your Health Intelligence page](img/lab-report-results.png)
+
+Clicking **View Results** on any uploaded report opens a full **Your Health Intelligence** page with four tabs:
+
+| Tab | What it shows |
+|-----|--------------|
+| **Overview** | Key headline metrics (Biological Age, HbA1c, GGT, CRP) and a body-system summary with ACT/GOOD/WATCH labels |
+| **Your Body's Story** | A narrative interpretation of your results written for a non-clinical reader |
+| **Key Findings** | The specific markers that need attention, with context and recommended actions |
+| **For Your Doctor** | A structured summary formatted for sharing with a healthcare provider |
+
+Each report page can be kept **Private**, shared via **Private Link**, or made **Public**. You can also download it or export the raw HTML.
+
 ## Connecting Body Signals to Meals
 
 Luna cross-references your biomarkers with your meal history. If, for example, your glucose patterns show variability, she will flag relevant meals in the **Today** view and explain the connection — so you know which food choices are most likely affecting which markers.

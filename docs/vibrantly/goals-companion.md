@@ -41,6 +41,28 @@ Add specific behaviors tailored to your preferences that override archetype defa
 ### Danger Zone
 **Reset entire personality** reverts all sections to your archetype's defaults and removes your custom entries.
 
+## Profile & Voice
+
+![Luna profile and voice selection](img/companion-voice.png)
+
+The **Profile** tab lets you configure Luna's identity:
+
+- **Companion name** — rename Luna to anything you prefer (up to 24 characters)
+- **Voice** — choose from 8 voices for spoken responses:
+
+| Voice | Character |
+|-------|-----------|
+| Leda | Clear and friendly |
+| Aoede | Smooth and warm |
+| Orus | Steady and authoritative |
+| Puck | Playful and upbeat |
+| Kore | Firm and grounded |
+| Charon | Calm and measured |
+| Fenrir | Confident and direct |
+| Zephyr | Light and energetic |
+
+You can preview each voice before selecting. Tap **Save changes** to apply.
+
 ## Skills
 
 ![Skills library](img/skills.png)
