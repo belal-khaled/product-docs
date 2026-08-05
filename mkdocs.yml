@@ -60,6 +60,47 @@ nav:
       - Meal Logging Issues: vibrantly/troubleshooting/meal-logging-issues.md
       - Login Issues: vibrantly/troubleshooting/login-issues.md
       - Luna & Chat Issues: vibrantly/troubleshooting/luna-issues.md
+  - BlinkLife:
+    - Overview: blinklife/index.md
+    - Getting Started:
+      - First Steps: blinklife/getting-started/index.md
+      - Creating Your Account: blinklife/getting-started/creating-account.md
+      - Personalising Your Companion: blinklife/getting-started/personalising-companion.md
+      - Your Home Page: blinklife/getting-started/home-page.md
+    - Features:
+      - All Features: blinklife/features/index.md
+      - Chat: blinklife/features/chat.md
+      - Notes: blinklife/features/notes.md
+      - Tasks & Projects: blinklife/features/tasks-projects.md
+      - Pages: blinklife/features/pages.md
+      - Brains: blinklife/features/brains.md
+      - Listener: blinklife/features/listener.md
+      - Calendar: blinklife/features/calendar.md
+      - Memories: blinklife/features/memories.md
+      - Pulse & Routines: blinklife/features/pulse.md
+      - Skills: blinklife/features/skills.md
+      - AI Companion (My AI): blinklife/features/ai-companion.md
+      - AI Diary: blinklife/features/ai-diary.md
+    - Integrations:
+      - Overview: blinklife/integrations/index.md
+      - Google Calendar: blinklife/integrations/google-calendar.md
+      - Gmail: blinklife/integrations/gmail.md
+      - Telegram: blinklife/integrations/telegram.md
+      - Google Docs: blinklife/integrations/google-docs.md
+    - Account & Login:
+      - Overview: blinklife/account/index.md
+      - Signing In: blinklife/account/signing-in.md
+      - Password Reset: blinklife/account/password-reset.md
+      - Profile & Settings: blinklife/account/profile-settings.md
+      - Deleting Your Account: blinklife/account/deleting-account.md
+    - Billing & Credits:
+      - Overview: blinklife/billing/index.md
+    - Troubleshooting:
+      - Overview: blinklife/troubleshooting/index.md
+      - Chat & Sandra Issues: blinklife/troubleshooting/chat-issues.md
+      - Listener Issues: blinklife/troubleshooting/listener-issues.md
+      - Calendar Sync Issues: blinklife/troubleshooting/calendar-sync.md
+      - Login Issues: blinklife/troubleshooting/login-issues.md
   - BlinkWebinars:
     - Overview: blinkwebinars/index.md
     - Getting Started: blinkwebinars/getting-started.md
