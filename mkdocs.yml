@@ -15,16 +15,48 @@ theme:
     - search.share
     - content.tabs.link
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+
 nav:
   - Home: index.md
   - Vibrantly:
     - Overview: vibrantly/index.md
-    - Getting Started: vibrantly/getting-started.md
-    - Today View: vibrantly/today-view.md
-    - Meals: vibrantly/meals.md
-    - Goals & Companion: vibrantly/goals-companion.md
-    - Body Signals & Lab Reports: vibrantly/sleep-tracking.md
-    - Settings & Profile: vibrantly/settings.md
+    - Getting Started:
+      - First Steps: vibrantly/getting-started/index.md
+      - Creating Your Account: vibrantly/getting-started/creating-account.md
+      - Uploading Your First Lab Report: vibrantly/getting-started/first-lab-report.md
+      - Understanding the Dashboard: vibrantly/getting-started/understanding-dashboard.md
+    - Features:
+      - All Features: vibrantly/features/index.md
+      - Today View: vibrantly/features/today-view.md
+      - Meals: vibrantly/features/meals.md
+      - Chat with Luna: vibrantly/features/luna-chat.md
+      - Companion Settings: vibrantly/features/companion-settings.md
+      - Skills: vibrantly/features/skills.md
+      - Memories: vibrantly/features/memories.md
+      - Lab Reports: vibrantly/features/lab-reports.md
+      - Body Signals: vibrantly/features/body-signals.md
+      - Pages: vibrantly/features/pages.md
+    - Integrations:
+      - Overview: vibrantly/integrations/index.md
+      - Apple Health & Wearables: vibrantly/integrations/apple-health.md
+    - Account & Login:
+      - Overview: vibrantly/account/index.md
+      - Signing In: vibrantly/account/signing-in.md
+      - Password Reset: vibrantly/account/password-reset.md
+      - Profile & Settings: vibrantly/account/profile-settings.md
+      - Deleting Your Account: vibrantly/account/deleting-account.md
+    - Billing & Plans:
+      - Overview: vibrantly/billing/index.md
+    - Troubleshooting:
+      - Overview: vibrantly/troubleshooting/index.md
+      - Lab Report Issues: vibrantly/troubleshooting/lab-report-issues.md
+      - Meal Logging Issues: vibrantly/troubleshooting/meal-logging-issues.md
+      - Login Issues: vibrantly/troubleshooting/login-issues.md
+      - Luna & Chat Issues: vibrantly/troubleshooting/luna-issues.md
   - BlinkWebinars:
     - Overview: blinkwebinars/index.md
     - Getting Started: blinkwebinars/getting-started.md
