@@ -101,6 +101,27 @@ nav:
       - Listener Issues: blinklife/troubleshooting/listener-issues.md
       - Calendar Sync Issues: blinklife/troubleshooting/calendar-sync.md
       - Login Issues: blinklife/troubleshooting/login-issues.md
+  - Finerminds:
+    - Overview: finerminds/index.md
+    - Getting Started:
+      - First Steps: finerminds/getting-started/index.md
+      - Creating Your Account: finerminds/getting-started/creating-account.md
+      - Your Profile & Home Page: finerminds/getting-started/home-page.md
+    - Features:
+      - All Features: finerminds/features/index.md
+      - Networks: finerminds/features/networks.md
+      - People: finerminds/features/people.md
+      - Chats: finerminds/features/chats.md
+      - Events: finerminds/features/events.md
+    - Account & Login:
+      - Overview: finerminds/account/index.md
+      - Signing In: finerminds/account/signing-in.md
+      - Editing Your Profile: finerminds/account/editing-profile.md
+      - Privacy & Data: finerminds/account/privacy.md
+    - Troubleshooting:
+      - Overview: finerminds/troubleshooting/index.md
+      - Chat Issues: finerminds/troubleshooting/chat-issues.md
+      - Login Issues: finerminds/troubleshooting/login-issues.md
   - BlinkWebinars:
     - Overview: blinkwebinars/index.md
     - Getting Started: blinkwebinars/getting-started.md
