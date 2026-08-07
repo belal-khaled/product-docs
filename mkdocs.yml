@@ -25,6 +25,41 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - BlinkLearn:
+    - Overview: blinklearn/index.md
+    - Getting Started:
+      - First Steps: blinklearn/getting-started/index.md
+      - Creating Your Account: blinklearn/getting-started/creating-account.md
+      - Understanding Today: blinklearn/getting-started/understanding-today.md
+    - Features:
+      - All Features: blinklearn/features/index.md
+      - Today: blinklearn/features/today.md
+      - Chat with Sandra: blinklearn/features/chat.md
+      - Courses: blinklearn/features/courses.md
+      - Classrooms: blinklearn/features/classrooms.md
+      - Meditations: blinklearn/features/meditations.md
+      - Insights: blinklearn/features/insights.md
+      - Notes: blinklearn/features/notes.md
+      - Library: blinklearn/features/library.md
+      - Skills: blinklearn/features/skills.md
+      - My AI: blinklearn/features/my-ai.md
+      - Pages: blinklearn/features/pages.md
+      - Memories: blinklearn/features/memories.md
+      - Listener: blinklearn/features/listener.md
+      - Goals: blinklearn/features/goals.md
+    - Account & Login:
+      - Overview: blinklearn/account/index.md
+      - Signing In: blinklearn/account/signing-in.md
+      - Password Reset: blinklearn/account/password-reset.md
+      - Profile & Settings: blinklearn/account/profile-settings.md
+      - Deleting Your Account: blinklearn/account/deleting-account.md
+    - Billing & Plans:
+      - Overview: blinklearn/billing/index.md
+    - Troubleshooting:
+      - Overview: blinklearn/troubleshooting/index.md
+      - Chat & Sandra Issues: blinklearn/troubleshooting/chat-issues.md
+      - Login Issues: blinklearn/troubleshooting/login-issues.md
+      - Course & Content Issues: blinklearn/troubleshooting/course-issues.md
   - Vibrantly:
     - Overview: vibrantly/index.md
     - Getting Started:
