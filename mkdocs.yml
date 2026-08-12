@@ -16,6 +16,7 @@ theme:
     - content.tabs.link
 
 markdown_extensions:
+  - admonition
   - attr_list
   - md_in_html
   - tables
@@ -45,8 +46,6 @@ nav:
       - My AI: blinklearn/features/my-ai.md
       - Pages: blinklearn/features/pages.md
       - Memories: blinklearn/features/memories.md
-      - Listener: blinklearn/features/listener.md
-      - Goals: blinklearn/features/goals.md
     - Account & Login:
       - Overview: blinklearn/account/index.md
       - Signing In: blinklearn/account/signing-in.md
