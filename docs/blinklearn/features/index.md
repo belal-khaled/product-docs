@@ -14,5 +14,3 @@
 | [My AI](my-ai.md) | Companion personalisation and settings |
 | [Pages](pages.md) | AI-assisted collaborative documents |
 | [Memories](memories.md) | Everything Sandra has learned about you |
-| [Listener](listener.md) | Hands-free audio mode for your content |
-| [Goals](goals.md) | Learning goals and progress tracking |

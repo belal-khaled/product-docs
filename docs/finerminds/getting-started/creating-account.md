@@ -1,13 +1,17 @@
 # Creating Your Account
 
-Go to [finerminds.com](https://www.finerminds.com) and click **Log in** to create a new account or sign in to an existing one.
+!!! info "Invite-only access"
+    Finerminds is currently invite-only. There is no self-service sign-up. To request access, contact your Mindvalley team admin or ask an existing member to send you an invitation.
 
-## Sign-up options
+## Joining via invitation
 
-Finerminds supports the following sign-in methods:
+When a network admin sends you an invite link:
 
-- **Google** — click **Continue with Google** and select your Google account
-- **Email and password** — enter your email address, then follow the steps to set a password
+1. Open the link in your browser
+2. Sign in with your Mindvalley account (Google or email) or create one if you don't have one yet
+3. You'll be added to the network automatically after signing in
+
+If you already use other Mindvalley products (BlinkLearn, BlinkLife, etc.), use the same email address — your account works across the platform.
 
 ## First-time setup
 
@@ -19,10 +23,6 @@ After signing in for the first time you will be prompted to complete your profil
 4. Add any social links you want to share with the community
 
 You can skip any of these steps and complete them later from [Edit profile](../account/editing-profile.md).
-
-## Joining via invitation
-
-If a network admin sent you an invite link, open it in your browser. You will be asked to sign in or create an account before being added to that network automatically.
 
 ## Already have a Mindvalley account?
 

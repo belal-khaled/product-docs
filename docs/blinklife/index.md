@@ -1,5 +1,7 @@
 # BlinkLife Support
 
+![BlinkLife — Your life, remembered](img/homepage.png)
+
 <div class="grid cards" markdown>
 
 -   :material-play-circle-outline:{ .lg .middle } **Getting Started**
